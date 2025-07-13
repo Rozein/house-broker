@@ -73,3 +73,30 @@ Migrations/*Snapshot.cs
  #JetBrains Rider user-specific files
 *.DotSettings.user
 *.DotSettings.User
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+
+# Test coverage
+coverage/
+*.coverage
+*.coveragexml
+opencover.xml
+
+# Temporary files
+*~
+*.temp
+*.cache
