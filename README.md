@@ -54,8 +54,8 @@ public class RegisterUserCommandHandler : ICommandHandler<RegisterUserCommand, A
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/housebroker.git
-cd housebroker
+git clone https://github.com/Rozein/house-broker
+cd house-broker
 ```
 
 ### 2. Start SQL Server with Docker
