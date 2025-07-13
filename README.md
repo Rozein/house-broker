@@ -137,6 +137,16 @@ Included in Seeder.cs
 - seeker@housebroker.com - seeker@1234
 ---
 
+## Architecture
+
+![Clean Architecture Diagram](docs/images/clean-architecture.png)
+
+## Database Schema
+
+![Database ERD](docs/images/database-erd.png)
+
+--
+
 ## 🙋 Maintainer
 
 Made by **Rozeen Nakarmi**
