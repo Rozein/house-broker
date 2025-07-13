@@ -132,9 +132,9 @@ dotnet test
 ## 📜 User Name & Password
 
 Included in Seeder.cs
-admin@housebroker.com - admin@1234
-broker@housebroker.com - broker@1234
-seeker@housebroker.com - seeker@1234
+- admin@housebroker.com - admin@1234
+- broker@housebroker.com - broker@1234
+- seeker@housebroker.com - seeker@1234
 ---
 
 ## 🙋 Maintainer
