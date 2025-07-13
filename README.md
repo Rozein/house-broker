@@ -139,11 +139,11 @@ Included in Seeder.cs
 
 ## Architecture
 
-![Clean Architecture Diagram](docs/images/clean-architecture.png)
+![Clean Architecture Diagram](docs/images/HouseBrokerProjectArchitecture.png)
 
 ## Database Schema
 
-![Database ERD](docs/images/database-erd.png)
+![Database ERD](docs/images/HouseBrokerDatabaseDiagram.png)
 
 --
 
