@@ -69,3 +69,7 @@ Migrations/*Snapshot.cs
 
 # Other IDE/Editor files
 .vs/
+
+ #JetBrains Rider user-specific files
+*.DotSettings.user
+*.DotSettings.User
