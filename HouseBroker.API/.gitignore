@@ -62,3 +62,10 @@ Migrations/*Snapshot.cs
 .idea/.idea/shelf/
 .idea/.idea/sonarlint/
 
+# JetBrains IDEs (Rider, IntelliJ, WebStorm, etc.)
+*.iml
+*.ipr
+*.iws
+
+# Other IDE/Editor files
+.vs/
